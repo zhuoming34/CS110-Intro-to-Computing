@@ -1,0 +1,12 @@
+---
+:id: 10170287
+:submitters:
+- :name: Zhuoming Huang
+  :email: zhuoming.huang001@umb.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2018-10-17 03:24:54.906789000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2018-10-16 20:24:54.906789000 Z
+:status: processed
+:score: 60.0
